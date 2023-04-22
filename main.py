@@ -1,3 +1,5 @@
+print ("안녕하세요")
+
 from fastapi import FastAPI
 import uvicorn
 
